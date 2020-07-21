@@ -147,7 +147,7 @@ gem 'asciidoctor-plantuml', '0.0.8'
 gem 'rouge', '~> 3.1'
 gem 'truncato', '~> 0.7.9'
 gem 'bootstrap_form', '~> 2.7.0'
-gem 'nokogiri', '~> 1.8.2'
+gem 'nokogiri', '~> 1.10.8'
 
 # Calendar rendering
 gem 'icalendar'
@@ -230,7 +230,7 @@ gem 'ruby-fogbugz', '~> 0.2.1'
 gem 'kubeclient', '~> 3.1.0'
 
 # Sanitize user input
-gem 'sanitize', '~> 4.6'
+gem 'sanitize', '~> 5.2.1'
 gem 'babosa', '~> 1.0.2'
 
 # Sanitizes SVG input
